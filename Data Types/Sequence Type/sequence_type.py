@@ -1,4 +1,0 @@
-# Sequence Data Types
-
-
-
