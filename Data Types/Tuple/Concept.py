@@ -7,7 +7,3 @@ print(fruits, type(fruits))
 
 students = ('ali', 'reza', 'sara', 'zahra')
 print(students, type(students))
-
-# range 
-range_numbers = range(1, 11)
-print(list(range_numbers), type(range_numbers))
